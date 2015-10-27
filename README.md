@@ -1,1 +1,1 @@
-GitHub Checkpoint Assignment for Bloc assignment.
+GitHub Checkpoint Assignment for Bloc.
